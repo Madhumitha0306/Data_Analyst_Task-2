@@ -1,8 +1,9 @@
 Data Visualization and Storytelling
 
 🏪 Superstore Sales Dashboard – Power BI Project
-📊 Overview
-This project showcases a Power BI dashboard developed to analyze and visualize sales performance from the Superstore Sales dataset (sourced from Kaggle).The dashboard provides deep insights into key business metrics such as total sales, order trends, customer segments, product categories, and regional performance — helping decision-makers identify sales patterns and growth opportunities.
+
+ 📊 Overview
+ This project showcases a Power BI dashboard developed to analyze and visualize sales performance from the Superstore Sales dataset (sourced from Kaggle).The dashboard provides deep insights into key business metrics such as total sales, order trends, customer segments, product categories, and regional performance — helping decision-makers identify sales patterns and growth opportunities.
 
 🎯 Objectives
 * To perform data cleaning, modeling, and visualization in Power BI.
